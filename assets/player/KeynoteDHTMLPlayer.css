@@ -58,7 +58,7 @@ div.stage
     position: absolute; 
     top: 0;
     left: 0;
-    overflow: visible;
+    overflow: hidden;
 }
 
 /* Hyperlinke Plane */
